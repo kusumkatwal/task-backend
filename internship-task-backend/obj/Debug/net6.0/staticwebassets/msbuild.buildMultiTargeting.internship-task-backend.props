@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\internship-task-backend.props" />
+</Project>
